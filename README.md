@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://brhan-pro.web.app/">
+  <a href="https://brhanpro.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:brhanpro@gmail.com">
