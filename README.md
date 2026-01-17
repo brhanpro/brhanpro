@@ -22,16 +22,16 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **Rayna Shop (Autopart Pro)** & **Intelligent Pharmacy Locator**
-- 🌱 Learning **Advanced Flutter & Cloud Architecture**
-- 🎓 **Computer Science Student**
-- 💼 **Freelancer** – available for hire
-- 📍 **Duhok, Iraq**
+##  About Me
+-  Working on **Rayna Shop (Autopart Pro)** & **Intelligent Pharmacy Locator**
+-  Learning **Advanced Flutter & Cloud Architecture**
+-  **Computer Science Student**
+-  **Freelancer** – available for hire
+-  **Duhok, Iraq**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,js,ts,flutter,react,firebase,supabase,mysql,unity,qt&theme=dark" />
@@ -41,7 +41,7 @@
 
 ## 💻 Featured Projects
 
-| 🚀 Project | 📝 Description | 🧰 Stack |
+|  Project |  Description |  Stack |
 |-----------|---------------|---------|
 | **Rayna Shop** | Autopart system with inventory & pricing | React, TS, Firebase |
 | **Pharmacy Locator** | Smart app to find nearby pharmacies | Flutter, Supabase |
@@ -53,10 +53,10 @@
 
 ---
 
-## 🤝 Let’s Work Together
+##  Let’s Work Together
 <p align="center">
-  📞 0750 332 9695 <br/>
-  📧 brhanpro@gmail.com <br/><br/>
+   0750 332 9695 <br/>
+   brhanpro@gmail.com <br/><br/>
   <b>© 2026 Brhan Pro</b>
 </p>
 
