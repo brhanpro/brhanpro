@@ -23,10 +23,9 @@
 ---
 
 ##  About Me
--  Working on **Rayna Shop (Autopart Pro)** & **Intelligent Pharmacy Locator**
--  Learning **Advanced Flutter & Cloud Architecture**
+-  Working on **Rayan Shop ** & ** Pharmacy Locator**
+-  Learning **Advanced Flutter**
 -  **Computer Science Student**
--  **Freelancer** – available for hire
 -  **Duhok, Iraq**
 
 ---
@@ -46,7 +45,7 @@
 | **Rayna Shop** | Autopart system with inventory & pricing | React, TS, Firebase |
 | **Pharmacy Locator** | Smart app to find nearby pharmacies | Flutter, Supabase |
 | **SMS System** | Student management & reports | PHP, SQL, JS |
-| **Money Tracker** | Desktop finance tracker | Python, Qt6 |
+| **Money Tracker** | Desktop finance tracker | Python, Qt5 |
 | **Bakery System** | Cake factory management | Python, Qt5 |
 | **Ration System** | Citizen & ration distribution | Python, Qt5 |
 | **Endless Runner** | 3D game logic & gameplay | C#, Unity |
